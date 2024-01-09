@@ -1,1 +1,2 @@
- lesson_1_
+my_name=("Alexander")
+print(my_name)
