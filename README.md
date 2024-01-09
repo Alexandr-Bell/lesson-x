@@ -1,2 +1,0 @@
-# lesson-x 
-ZDfgjkvljkzjdxvcb n
